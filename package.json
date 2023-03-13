@@ -73,5 +73,6 @@
   "optionalDependencies": {
     "ws": "^6.2.1",
     "y-leveldb": "^0.1.0"
-  }
+  },
+  "type": "module"
 }
